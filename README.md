@@ -5,6 +5,7 @@
 
 This project involves exploring a dataset of 426,000 used cars, obtained from Kaggle, to determine the key factors that influence car pricing. The analysis aims to assist a used car dealership in optimizing their pricing strategy by identifying what consumers value most in a used car. Several machine learning models, including Linear Regression, Ridge Regression, and Lasso Regression, were applied to predict car prices based on various features.
 
+[Link to the notebook](https://github.com/humbertoturpo/cars_used/blob/main/prompt_II_Humberto_Turpo.ipynb)
 
 ---
 
